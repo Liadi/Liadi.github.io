@@ -1,0 +1,17 @@
+.pad-content-above{
+    padding-top: 10px;
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    padding-top: 50px; 
+    background-image: url("../resources/images/WebsiteBackground.jpg");
+    color: #350303;
+}
+
+.main-points{
+    color:orangered;
+    font-size: 36px;
+}
+
+a {color:orangered;}
